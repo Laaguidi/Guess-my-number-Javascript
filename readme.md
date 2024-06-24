@@ -10,9 +10,9 @@ A simple number guessing game implemented in JavaScript.
 6- Play Again: Click "Again!" to reset the game and play another round.
 
 ## Files:
-index.html: The HTML structure of the game.<br>
-style.css: The CSS for styling the game.<br>
-script.js: The JavaScript logic for the game.<br>
+* index.html: The HTML structure of the game.<br>
+* style.css: The CSS for styling the game.<br>
+* script.js: The JavaScript logic for the game.<br>
 
 ## Key Features:
 * Randomly generates a secret number for each game.<br>
